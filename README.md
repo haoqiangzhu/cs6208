@@ -1,7 +1,7 @@
 # zhqcs6208
 # Code for Graph Network-based Simulators
 
-This repository contains code for the implementation of the Graph Network-based Simulators (GNS) method, as described in the paper *[paper name]*. The code is written in Python and can be run in Google Colab. 
+This repository contains code for the implementation of the Graph Network-based Simulators (GNS) method, as described in the paper *[Learning to Simulate Complex Physics with Graph Networks]*. The code is written in Python and can be run in Google Colab. 
 
 ## Code versions
 
