@@ -13,4 +13,4 @@ There are three versions of the code available in this repository:
 
 - **Improvement**: A version in which the structure of the GN layers is changed while keeping 10 layers. This version has 1/3 fewer parameters than the 20layers version but better performance.
 
-The code is adapted from the code provided by deepmind, which is a tensorflow version https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate and a tutorial provided by Stanford CS224W https://colab.research.google.com/drive/1hirUfPgLU35QCSQSZ7T2lZMyFMOaK_OF?usp=sharing
+The code is adapted from the code provided by deepmind, which is a tensorflow version https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate and a tutorial provided by Stanford CS224W https://medium.com/stanford-cs224w/simulating-complex-physics-with-graph-networks-step-by-step-177354cb9b05
