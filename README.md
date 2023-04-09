@@ -12,3 +12,5 @@ There are three versions of the code available in this repository:
 - **20layers**: A version in which the number of GN layers is increased from 10 to 20, demonstrating that increasing the number of GN layers alone does not improve the performance.
 
 - **Improvement**: A version in which the structure of the GN layers is changed while keeping 10 layers. This version has 1/3 fewer parameters than the 20layers version but better performance.
+
+The code is adapted from the code provided by deepmind, which is a tensorflow version https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate and a tutorial provided by Stanford CS224W https://colab.research.google.com/drive/1hirUfPgLU35QCSQSZ7T2lZMyFMOaK_OF?usp=sharing
